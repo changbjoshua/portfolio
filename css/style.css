@@ -205,4 +205,21 @@
       padding: 2rem 1rem;
     }
   }
+
+  .section-experience dt {
+    font-family: var(--ff-heading);
+    font-weight: 600;
+    margin-top: 1.5rem; /* adds spacing before each job title */
+  }
+  
+  .section-experience dd {
+    margin: 0.25rem 0 1.5rem 0; /* adds space after job details */
+  }
+  
+  .section-experience ul {
+    margin-top: 0.5rem;
+    padding-left: 1.25rem;
+    list-style-type: disc;
+  }
+  
   
