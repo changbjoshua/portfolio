@@ -1,1 +1,3 @@
-# jbc92742.github.io-cv-site
+# Joshua Chang's Portfolio Website
+
+Welcome to my very simple portfolio website made with css and html. 
